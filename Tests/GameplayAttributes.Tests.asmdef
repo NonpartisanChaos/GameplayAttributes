@@ -1,0 +1,19 @@
+{
+    "name": "GameplayAttributes.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GameplayAttributes",
+        "BandoWare.GameplayTags"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
